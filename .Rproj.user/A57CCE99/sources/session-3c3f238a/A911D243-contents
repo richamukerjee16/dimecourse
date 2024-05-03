@@ -1,0 +1,2 @@
+# dimecourse
+DIME Git training
